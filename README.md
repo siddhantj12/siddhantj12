@@ -11,7 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=siddhantj12&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=siddhantj12&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantj12&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-username=siddhantj12&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=siddhantj12&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
