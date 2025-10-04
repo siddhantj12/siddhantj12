@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 Hi, I’m Siddhant Jain, a Computer Science student at Simon Fraser University. I’m passionate about data analytics, machine learning, and product development. <br><br> 🚀 I am building F1 Dash, a real-time Formula 1 telemetry dashboard using FastAPI, FastF1, and React.<br><br>
+ 👋 Hi, I’m Siddhant Jain, a Computer Science student at Simon Fraser University. I’m passionate about data analytics, machine learning, and product development. <br><br> 🚀 I am building F1 Dash, a real-time Formula 1 telemetry dashboard using FastAPI, FastF1, and Python.<br><br>
 
 
 ## 🌐 Socials:
